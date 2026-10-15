@@ -1,134 +1,150 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--              🎬 GITHUB PROFILE               -->
-<!--                   Made by Ryad 🇲🇦                          -->
+<!--      💙 OSANAIX SUPPORTER — Glitch Multilingual 💙          -->
+<!--      Web Developer • Morocco 🇲🇦 • Supporting @nik0hayashi  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- 🌊 TOP WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:FF6EC7,100:00FF87&height=200&section=header&text=Ryad&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Morocco%20🇲🇦&descAlignY=60&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0074D9,100:00F7FF&height=220&section=header&text=OsanaIX%20Supporter&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Supporting%20@nik0hayashi%20💙%20%7C%20Morocco%20🇲🇦&descAlignY=60&descSize=20" width="100%" />
 </div>
 
-<!-- 🎬 TYPING ENGLISH -->
+<!-- 🎬 TYPING — 17 LANGUES -->
+
+<!-- 🇬🇧 English -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hi+%F0%9F%91%8B+I'm+Ryad;Software+Developer+%F0%9F%92%BB;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing EN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=💙+OsanaIX+Supporter;Supporting+%40nik0hayashi+🌸;Web+Developer+from+Morocco+🇲🇦" />
 </div>
 
-<!-- 🎬 TYPING ARABIC -->
+<!-- 🇸🇦 Arabic -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=FF6EC7&center=true&vCenter=true&width=800&height=70&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+%D8%A3%D9%86%D8%A7+%D8%B1%D9%8A%D8%A7%D8%B6+%F0%9F%91%8B;%D9%85%D8%B7%D9%88%D9%91%D8%B1+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%F0%9F%92%BB;%D9%85%D9%86+%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8+%F0%9F%87%B2%F0%9F%87%A6;%D8%A3%D8%AA%D8%B9%D9%84%D9%91%D9%85+%D8%A8%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1+%F0%9F%9A%80" alt="Typing AR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+%D8%AF%D8%A7%D8%B9%D9%85+OsanaIX;%D8%A3%D8%AF%D8%B9%D9%85+%40nik0hayashi+%F0%9F%8C%B8;%D9%85%D9%86+%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING FRENCH -->
+<!-- 🇫🇷 French -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=FFD700&center=true&vCenter=true&width=800&height=70&lines=Salut+%F0%9F%91%8B+je+suis+Ryad;D%C3%A9veloppeur+de+logiciels+%F0%9F%92%BB;Du+Maroc+%F0%9F%87%B2%F0%9F%87%A6;Toujours+en+apprentissage+%F0%9F%9A%80" alt="Typing FR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+Supporteur+d'OsanaIX;Je+soutiens+%40nik0hayashi+%F0%9F%8C%B8;Du+Maroc+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING SPANISH -->
+<!-- 🇪🇸 Spanish -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=FF5252&center=true&vCenter=true&width=800&height=70&lines=Hola+%F0%9F%91%8B+soy+Ryad;Desarrollador+de+Software+%F0%9F%92%BB;De+Marruecos+%F0%9F%87%B2%F0%9F%87%A6;Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing ES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+Simpatizante+de+OsanaIX;Apoyo+a+%40nik0hayashi+%F0%9F%8C%B8;De+Marruecos+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING PORTUGUESE -->
+<!-- 🇧🇷 Portuguese -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=00FF87&center=true&vCenter=true&width=800&height=70&lines=Ol%C3%A1+%F0%9F%91%8B+eu+sou+Ryad;Desenvolvedor+de+Software+%F0%9F%92%BB;Do+Marrocos+%F0%9F%87%B2%F0%9F%87%A6;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing PT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+Apoiador+do+OsanaIX;Apoio+%40nik0hayashi+%F0%9F%8C%B8;Do+Marrocos+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING DUTCH -->
+<!-- 🇳🇱 Dutch -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=FF9800&center=true&vCenter=true&width=800&height=70&lines=Hallo+%F0%9F%91%8B+ik+ben+Ryad;Software+Ontwikkelaar+%F0%9F%92%BB;Uit+Marokko+%F0%9F%87%B2%F0%9F%87%A6;Altijd+aan+het+leren+%F0%9F%9A%80" alt="Typing NL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+Supporter;Ik+steun+%40nik0hayashi+%F0%9F%8C%B8;Uit+Marokko+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING GERMAN -->
+<!-- 🇩🇪 German -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=9C27B0&center=true&vCenter=true&width=800&height=70&lines=Hallo+%F0%9F%91%8B+ich+bin+Ryad;Softwareentwickler+%F0%9F%92%BB;Aus+Marokko+%F0%9F%87%B2%F0%9F%87%A6;Immer+am+Lernen+%F0%9F%9A%80" alt="Typing DE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+Unterst%C3%BCtzer;Ich+unterst%C3%BCtze+%40nik0hayashi+%F0%9F%8C%B8;Aus+Marokko+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING ITALIAN -->
+<!-- 🇮🇹 Italian -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=00BCD4&center=true&vCenter=true&width=800&height=70&lines=Ciao+%F0%9F%91%8B+sono+Ryad;Sviluppatore+Software+%F0%9F%92%BB;Dal+Marocco+%F0%9F%87%B2%F0%9F%87%A6;Sempre+imparando+%F0%9F%9A%80" alt="Typing IT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+Sostenitore+di+OsanaIX;Sostengo+%40nik0hayashi+%F0%9F%8C%B8;Dal+Marocco+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING TURKISH -->
+<!-- 🇹🇷 Turkish -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=E91E63&center=true&vCenter=true&width=800&height=70&lines=Merhaba+%F0%9F%91%8B+ben+Ryad;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%F0%9F%92%BB;Fas%27tan+%F0%9F%87%B2%F0%9F%87%A6;Her+zaman+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing TR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+Destek%C3%A7isi;%40nik0hayashi'yi+destekliyorum+%F0%9F%8C%B8;Fas'tan+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING RUSSIAN -->
+<!-- 🇷🇺 Russian -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=3F51B5&center=true&vCenter=true&width=800&height=70&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B+%D1%8F+Ryad;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%F0%9F%92%BB;%D0%98%D0%B7+%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE+%F0%9F%87%B2%F0%9F%87%A6;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D1%83%D1%87%D1%83%D1%81%D1%8C+%F0%9F%9A%80" alt="Typing RU" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0+OsanaIX;%D0%AF+%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E+%40nik0hayashi+%F0%9F%8C%B8;%D0%98%D0%B7+%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING CHINESE -->
+<!-- 🇨🇳 Chinese -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=FF1744&center=true&vCenter=true&width=800&height=70&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF+Ryad;%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%80%85+%F0%9F%92%BB;%E6%9D%A5%E8%87%AA%E6%91%A9%E6%B4%9B%E5%93%A5+%F0%9F%87%B2%F0%9F%87%A6;%E6%B0%B8%E8%BF%9C%E5%9C%A8%E5%AD%A6%E4%B9%A0+%F0%9F%9A%80" alt="Typing ZH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+%E6%94%AF%E6%8C%81%E8%80%85;%E6%88%91%E6%94%AF%E6%8C%81+%40nik0hayashi+%F0%9F%8C%B8;%E6%9D%A5%E8%87%AA%E6%91%A9%E6%B4%9B%E5%93%A5+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING JAPANESE -->
+<!-- 🇯🇵 Japanese -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=70&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B+Ryad%E3%81%A7%E3%81%99;%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85+%F0%9F%92%BB;%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E5%87%BA%E8%BA%AB+%F0%9F%87%B2%F0%9F%87%A6;%E5%B8%B8%E3%81%AB%E5%AD%A6%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99+%F0%9F%9A%80" alt="Typing JA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC;%40nik0hayashi+%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%97%E3%81%BE%E3%81%99+%F0%9F%8C%B8;%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E5%87%BA%E8%BA%AB+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING KOREAN -->
+<!-- 🇰🇷 Korean -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=00E5FF&center=true&vCenter=true&width=800&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B+%EC%A0%80%EB%8A%94+Ryad%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%92%BB;%EB%AA%A8%EB%A1%9C%EC%BD%94+%EC%B6%9C%EC%8B%A0+%F0%9F%87%B2%F0%9F%87%A6;%ED%95%AD%EC%83%81+%EB%B0%B0%EC%9A%B0%EB%8A%94+%EC%A4%91+%F0%9F%9A%80" alt="Typing KO" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+%EC%A7%80%EC%A7%80%EC%9E%90;%40nik0hayashi%EB%A5%BC+%EC%A7%80%EC%A7%80%ED%95%A9%EB%8B%88%EB%8B%A4+%F0%9F%8C%B8;%EB%AA%A8%EB%A1%9C%EC%BD%94+%EC%B6%9C%EC%8B%A0+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
-<!-- 🎬 TYPING HINDI -->
+<!-- 🇮🇳 Hindi -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=500&color=FFC107&center=true&vCenter=true&width=800&height=70&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%91%8B+%E0%A4%AE%E0%A5%88%E0%A4%82+Ryad+%E0%A4%B9%E0%A5%82%E0%A4%81;%E0%A4%B8%E0%A5%89%E0%A4%AB%E0%A4%BC%E0%A4%9F%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%B2%E0%A4%AA%E0%A4%B0+%F0%9F%92%BB;%E0%A4%AE%E0%A5%8B%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A5%8B+%E0%A4%B8%E0%A5%87+%F0%9F%87%B2%F0%9F%87%A6;%E0%A4%B9%E0%A4%AE%E0%A5%87%E0%A4%B6%E0%A4%BE+%E0%A4%B8%E0%A5%80%E0%A4%96+%E0%A4%B0%E0%A4%B9%E0%A5%87+%E0%A4%B9%E0%A5%88%E0%A4%82+%F0%9F%9A%80" alt="Typing HI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%95;%E0%A4%AE%E0%A5%88%E0%A4%82+%40nik0hayashi+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%82%E0%A4%81+%F0%9F%8C%B8;%E0%A4%AE%E0%A5%8B%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A5%8B+%E0%A4%B8%E0%A5%87+%F0%9F%87%B2%F0%9F%87%A6" />
+</div>
+
+<!-- 🇵🇱 Polish -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+Zwolennik+OsanaIX;Wspieram+%40nik0hayashi+%F0%9F%8C%B8;Z+Maroka+%F0%9F%87%B2%F0%9F%87%A6" />
+</div>
+
+<!-- 🇸🇪 Swedish -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=0074D9&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+OsanaIX+Supporter;Jag+st%C3%B6djer+%40nik0hayashi+%F0%9F%8C%B8;Fr%C3%A5n+Marocko+%F0%9F%87%B2%F0%9F%87%A6" />
+</div>
+
+<!-- 🇬🇷 Greek -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%92%99+%CE%A5%CF%80%CE%BF%CF%83%CF%84%CE%B7%CF%81%CE%B9%CE%BA%CF%84%CE%AE%CF%82+OsanaIX;%CE%A5%CF%80%CE%BF%CF%83%CF%84%CE%B7%CF%81%CE%AF%CE%B6%CF%89+%40nik0hayashi+%F0%9F%8C%B8;%CE%91%CF%80%CF%8C+%CF%84%CE%BF+%CE%9C%CE%B1%CF%81%CF%8C%CE%BA%CE%BF+%F0%9F%87%B2%F0%9F%87%A6" />
 </div>
 
 <br />
 
 <!-- 🎯 BADGES -->
 <div align="center">
-  <a href="https://ryad-page.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00F7FF?style=for-the-badge&labelColor=000000" />
-  </a>
-  <img src="https://img.shields.io/badge/📍_Morocco-🇲🇦-FF6EC7?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/💼_Open_to_Work-Yes-00FF87?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/💙_OsanaIX-Supporter-00F7FF?style=for-the-badge&labelColor=001F3F" />
+  <img src="https://img.shields.io/badge/🌸_@nik0hayashi-Supported-00FF87?style=for-the-badge&labelColor=001F3F" />
+  <img src="https://img.shields.io/badge/💻_Web_Developer-Active-0074D9?style=for-the-badge&labelColor=001F3F" />
+  <img src="https://img.shields.io/badge/📍_Morocco-🇲🇦-00F7FF?style=for-the-badge&labelColor=001F3F" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryadallaoui1-lang&label=👁️%20Profile%20Views&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ryadallaoui1-lang?label=👥%20Followers&style=for-the-badge&color=FF6EC7&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/ryadallaoui1-lang?label=⭐%20Stars&style=for-the-badge&color=00FF87&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=ryadallaoui1-lang&label=👁️%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ryadallaoui1-lang?label=👥%20Followers&style=for-the-badge&color=0074D9&labelColor=001F3F" />
+  <img src="https://img.shields.io/github/stars/ryadallaoui1-lang/osanaix-supporter?label=⭐%20Stars&style=for-the-badge&color=00FF87&labelColor=001F3F" />
 </div>
 
 <br />
 
-<!-- 🌈 RAINBOW DIVIDER -->
+<!-- 🌈 DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     🌍 ABOUT ME (ALL LANGUAGES)             -->
+<!--                🌍 ABOUT ME — 17 LANGUES                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌍 About Me — Multilingual</h2>
+<h2 align="center">🌍 About Me — 17 Languages</h2>
 
 <!-- 🇬🇧 ENGLISH -->
 <details open>
 <summary><b>🇬🇧 English</b></summary>
 <br/>
-👋 Hi, I'm <b>Ryad</b>, a passionate <b>Software Developer</b> based in <b>Morocco</b> 🇲🇦<br/>
-💻 I build <b>clean, performant and user-focused</b> applications<br/>
-🛠️ Focused on <b>modern web development</b> and <b>problem solving</b><br/>
-🚀 Currently developing <b>personal & open-source projects</b><br/>
-📈 Always learning, always shipping
+💙 I am an <b>OsanaIX Supporter</b><br/>
+🌸 I support <b>@nik0hayashi</b>, creator of <b>OsanaIX</b><br/>
+💻 I build <b>websites and web applications</b><br/>
+🇲🇦 From <b>Morocco</b><br/>
+🚀 Always learning, always shipping
 </details>
 
-<!-- 🇲🇦 ARABIC -->
+<!-- 🇸🇦 ARABIC -->
 <details>
 <summary><b>🇸🇦 العربية</b></summary>
 <br/>
 <div dir="rtl">
-👋 مرحباً، أنا <b>رياض</b>، <b>مطوّر برمجيات</b> شغوف مقيم في <b>المغرب</b> 🇲🇦<br/>
-💻 أبني تطبيقات <b>نظيفة وسريعة وتركّز على تجربة المستخدم</b><br/>
-🛠️ متخصص في <b>تطوير الويب الحديث</b> و<b>حلّ المشكلات</b><br/>
-🚀 أعمل حالياً على <b>مشاريع شخصية ومفتوحة المصدر</b><br/>
-📈 أتعلّم باستمرار وأطلق المشاريع باستمرار
+💙 أنا <b>داعم OsanaIX</b><br/>
+🌸 أدعم <b>@nik0hayashi</b>، مبتكر <b>OsanaIX</b><br/>
+💻 أبني <b>مواقع وتطبيقات ويب</b><br/>
+🇲🇦 من <b>المغرب</b><br/>
+🚀 أتعلّم باستمرار وأطلق المشاريع باستمرار
 </div>
 </details>
 
@@ -136,159 +152,203 @@
 <details>
 <summary><b>🇫🇷 Français</b></summary>
 <br/>
-👋 Salut, je suis <b>Ryad</b>, un <b>Développeur de Logiciels</b> passionné basé au <b>Maroc</b> 🇲🇦<br/>
-💻 Je crée des applications <b>propres, performantes et centrées utilisateur</b><br/>
-🛠️ Axé sur le <b>développement web moderne</b> et la <b>résolution de problèmes</b><br/>
-🚀 Je développe actuellement des <b>projets personnels et open-source</b><br/>
-📈 Toujours en apprentissage, toujours en livraison
+💙 Je suis <b>Supporteur d'OsanaIX</b><br/>
+🌸 Je soutiens <b>@nik0hayashi</b>, créateur d'<b>OsanaIX</b><br/>
+💻 Je crée des <b>sites et applications web</b><br/>
+🇲🇦 Du <b>Maroc</b><br/>
+🚀 Toujours en apprentissage, toujours en livraison
 </details>
 
 <!-- 🇪🇸 SPANISH -->
 <details>
 <summary><b>🇪🇸 Español</b></summary>
 <br/>
-👋 Hola, soy <b>Ryad</b>, un <b>Desarrollador de Software</b> apasionado con base en <b>Marruecos</b> 🇲🇦<br/>
-💻 Construyo aplicaciones <b>limpias, eficientes y centradas en el usuario</b><br/>
-🛠️ Enfocado en <b>desarrollo web moderno</b> y <b>resolución de problemas</b><br/>
-🚀 Actualmente desarrollando <b>proyectos personales y open-source</b><br/>
-📈 Siempre aprendiendo, siempre entregando
+💙 Soy <b>Simpatizante de OsanaIX</b><br/>
+🌸 Apoyo a <b>@nik0hayashi</b>, creador de <b>OsanaIX</b><br/>
+💻 Construyo <b>sitios y aplicaciones web</b><br/>
+🇲🇦 De <b>Marruecos</b><br/>
+🚀 Siempre aprendiendo, siempre entregando
 </details>
 
 <!-- 🇧🇷 PORTUGUESE -->
 <details>
 <summary><b>🇧🇷 Português (Brasil)</b></summary>
 <br/>
-👋 Olá, eu sou <b>Ryad</b>, um <b>Desenvolvedor de Software</b> apaixonado, morando no <b>Marrocos</b> 🇲🇦<br/>
-💻 Construo aplicações <b>limpas, performáticas e focadas no usuário</b><br/>
-🛠️ Focado em <b>desenvolvimento web moderno</b> e <b>resolução de problemas</b><br/>
-🚀 Atualmente desenvolvendo <b>projetos pessoais e open-source</b><br/>
-📈 Sempre aprendendo, sempre entregando
+💙 Sou <b>Apoiador do OsanaIX</b><br/>
+🌸 Apoio <b>@nik0hayashi</b>, criador do <b>OsanaIX</b><br/>
+💻 Construo <b>sites e aplicações web</b><br/>
+🇲🇦 Do <b>Marrocos</b><br/>
+🚀 Sempre aprendendo, sempre entregando
 </details>
 
 <!-- 🇳🇱 DUTCH -->
 <details>
 <summary><b>🇳🇱 Nederlands</b></summary>
 <br/>
-👋 Hallo, ik ben <b>Ryad</b>, een gepassioneerde <b>Software Ontwikkelaar</b> uit <b>Marokko</b> 🇲🇦<br/>
-💻 Ik bouw <b>schone, performante en gebruikersgerichte</b> applicaties<br/>
-🛠️ Gericht op <b>moderne webontwikkeling</b> en <b>probleemoplossing</b><br/>
-🚀 Momenteel werk ik aan <b>persoonlijke en open-source projecten</b><br/>
-📈 Altijd aan het leren, altijd aan het leveren
+💙 Ik ben een <b>OsanaIX Supporter</b><br/>
+🌸 Ik steun <b>@nik0hayashi</b>, maker van <b>OsanaIX</b><br/>
+💻 Ik bouw <b>websites en webapplicaties</b><br/>
+🇲🇦 Uit <b>Marokko</b><br/>
+🚀 Altijd aan het leren, altijd aan het leveren
 </details>
 
 <!-- 🇩🇪 GERMAN -->
 <details>
 <summary><b>🇩🇪 Deutsch</b></summary>
 <br/>
-👋 Hallo, ich bin <b>Ryad</b>, ein leidenschaftlicher <b>Softwareentwickler</b> aus <b>Marokko</b> 🇲🇦<br/>
-💻 Ich baue <b>saubere, performante und benutzerorientierte</b> Anwendungen<br/>
-🛠️ Fokussiert auf <b>moderne Webentwicklung</b> und <b>Problemlösung</b><br/>
-🚀 Derzeit entwickle ich <b>persönliche und Open-Source-Projekte</b><br/>
-📈 Immer am Lernen, immer am Liefern
+💙 Ich bin ein <b>OsanaIX Unterstützer</b><br/>
+🌸 Ich unterstütze <b>@nik0hayashi</b>, Schöpfer von <b>OsanaIX</b><br/>
+💻 Ich baue <b>Websites und Webanwendungen</b><br/>
+🇲🇦 Aus <b>Marokko</b><br/>
+🚀 Immer am Lernen, immer am Liefern
 </details>
 
 <!-- 🇮🇹 ITALIAN -->
 <details>
 <summary><b>🇮🇹 Italiano</b></summary>
 <br/>
-👋 Ciao, sono <b>Ryad</b>, uno <b>Sviluppatore Software</b> appassionato con base in <b>Marocco</b> 🇲🇦<br/>
-💻 Costruisco applicazioni <b>pulite, performanti e incentrate sull'utente</b><br/>
-🛠️ Focalizzato su <b>sviluppo web moderno</b> e <b>problem solving</b><br/>
-🚀 Attualmente sviluppo <b>progetti personali e open-source</b><br/>
-📈 Sempre imparando, sempre consegnando
+💙 Sono un <b>Sostenitore di OsanaIX</b><br/>
+🌸 Sostengo <b>@nik0hayashi</b>, creatore di <b>OsanaIX</b><br/>
+💻 Costruisco <b>siti e applicazioni web</b><br/>
+🇲🇦 Dal <b>Marocco</b><br/>
+🚀 Sempre imparando, sempre consegnando
 </details>
 
 <!-- 🇹🇷 TURKISH -->
 <details>
 <summary><b>🇹🇷 Türkçe</b></summary>
 <br/>
-👋 Merhaba, ben <b>Ryad</b>, <b>Fas</b>'ta yaşayan tutkulu bir <b>Yazılım Geliştirici</b>yim 🇲🇦<br/>
-💻 <b>Temiz, performanslı ve kullanıcı odaklı</b> uygulamalar geliştiriyorum<br/>
-🛠️ <b>Modern web geliştirme</b> ve <b>problem çözme</b> odaklıyım<br/>
-🚀 Şu anda <b>kişisel ve açık kaynak projeler</b> geliştiriyorum<br/>
-📈 Her zaman öğreniyorum, her zaman teslim ediyorum
+💙 Ben bir <b>OsanaIX Destekçisi</b>yim<br/>
+🌸 <b>OsanaIX</b>'in yaratıcısı <b>@nik0hayashi</b>'yi destekliyorum<br/>
+💻 <b>Web siteleri ve uygulamaları</b> geliştiriyorum<br/>
+🇲🇦 <b>Fas</b>'tan<br/>
+🚀 Her zaman öğreniyorum, her zaman teslim ediyorum
 </details>
 
 <!-- 🇷🇺 RUSSIAN -->
 <details>
 <summary><b>🇷🇺 Русский</b></summary>
 <br/>
-👋 Привет, я <b>Ryad</b>, страстный <b>разработчик программного обеспечения</b> из <b>Марокко</b> 🇲🇦<br/>
-💻 Я создаю <b>чистые, производительные и ориентированные на пользователя</b> приложения<br/>
-🛠️ Сфокусирован на <b>современной веб-разработке</b> и <b>решении задач</b><br/>
-🚀 Сейчас разрабатываю <b>личные и open-source проекты</b><br/>
-📈 Всегда учусь, всегда выпускаю
+💙 Я <b>поддерживаю OsanaIX</b><br/>
+🌸 Я поддерживаю <b>@nik0hayashi</b>, создателя <b>OsanaIX</b><br/>
+💻 Я создаю <b>сайты и веб-приложения</b><br/>
+🇲🇦 Из <b>Марокко</b><br/>
+🚀 Всегда учусь, всегда выпускаю
 </details>
 
 <!-- 🇨🇳 CHINESE -->
 <details>
 <summary><b>🇨🇳 中文</b></summary>
 <br/>
-👋 你好，我是 <b>Ryad</b>，一位来自<b>摩洛哥</b>的热情<b>软件开发者</b> 🇲🇦<br/>
-💻 我构建<b>干净、高效、以用户为中心</b>的应用程序<br/>
-🛠️ 专注于<b>现代 Web 开发</b>和<b>问题解决</b><br/>
-🚀 目前正在开发<b>个人和开源项目</b><br/>
-📈 永远学习，永远交付
+💙 我是 <b>OsanaIX 支持者</b><br/>
+🌸 我支持 <b>@nik0hayashi</b>，<b>OsanaIX</b> 的创造者<br/>
+💻 我构建 <b>网站和 Web 应用程序</b><br/>
+🇲🇦 来自<b>摩洛哥</b><br/>
+🚀 永远学习，永远交付
 </details>
 
 <!-- 🇯🇵 JAPANESE -->
 <details>
 <summary><b>🇯🇵 日本語</b></summary>
 <br/>
-👋 こんにちは、<b>Ryad</b> です。<b>モロッコ</b>出身の情熱的な<b>ソフトウェア開発者</b>です 🇲🇦<br/>
-💻 <b>クリーンで高性能、ユーザー中心</b>のアプリケーションを構築します<br/>
-🛠️ <b>モダンな Web 開発</b>と<b>問題解決</b>に注力しています<br/>
-🚀 現在、<b>個人およびオープンソースプロジェクト</b>を開発中<br/>
-📈 常に学び、常に届ける
+💙 私は <b>OsanaIX サポーター</b> です<br/>
+🌸 <b>OsanaIX</b> の制作者 <b>@nik0hayashi</b> を応援しています<br/>
+💻 <b>ウェブサイトとウェブアプリ</b> を構築します<br/>
+🇲🇦 <b>モロッコ</b>出身<br/>
+🚀 常に学び、常に届ける
 </details>
 
 <!-- 🇰🇷 KOREAN -->
 <details>
 <summary><b>🇰🇷 한국어</b></summary>
 <br/>
-👋 안녕하세요, 저는 <b>Ryad</b>입니다. <b>모로코</b>에 거주하는 열정적인 <b>소프트웨어 개발자</b>입니다 🇲🇦<br/>
-💻 <b>깔끔하고 성능이 뛰어나며 사용자 중심</b>의 애플리케이션을 만듭니다<br/>
-🛠️ <b>현대 웹 개발</b>과 <b>문제 해결</b>에 집중합니다<br/>
-🚀 현재 <b>개인 및 오픈 소스 프로젝트</b>를 개발 중입니다<br/>
-📈 항상 배우고, 항상 제공합니다
+💙 저는 <b>OsanaIX 지지자</b>입니다<br/>
+🌸 <b>OsanaIX</b> 제작자 <b>@nik0hayashi</b>를 지지합니다<br/>
+💻 <b>웹사이트와 웹앱</b>을 만듭니다<br/>
+🇲🇦 <b>모로코</b> 출신<br/>
+🚀 항상 배우고, 항상 제공합니다
 </details>
 
 <!-- 🇮🇳 HINDI -->
 <details>
 <summary><b>🇮🇳 हिन्दी</b></summary>
 <br/>
-👋 नमस्ते, मैं <b>Ryad</b> हूँ, <b>मोरक्को</b> में रहने वाला एक भावुक <b>सॉफ़्टवेयर डेवलपर</b> हूँ 🇲🇦<br/>
-💻 मैं <b>स्वच्छ, प्रदर्शनकारी और उपयोगकर्ता-केंद्रित</b> एप्लिकेशन बनाता हूँ<br/>
-🛠️ <b>आधुनिक वेब विकास</b> और <b>समस्या समाधान</b> पर केंद्रित<br/>
-🚀 वर्तमान में <b>व्यक्तिगत और ओपन-सोर्स प्रोजेक्ट</b> विकसित कर रहा हूँ<br/>
-📈 हमेशा सीखते हुए, हमेशा डिलीवर करते हुए
+💙 मैं <b>OsanaIX समर्थक</b> हूँ<br/>
+🌸 मैं <b>OsanaIX</b> के निर्माता <b>@nik0hayashi</b> का समर्थन करता हूँ<br/>
+💻 मैं <b>वेबसाइट और वेब ऐप</b> बनाता हूँ<br/>
+🇲🇦 <b>मोरक्को</b> से<br/>
+🚀 हमेशा सीखते हुए, हमेशा डिलीवर करते हुए
 </details>
 
-<!-- 🌈 RAINBOW DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- 🇵🇱 POLISH -->
+<details>
+<summary><b>🇵🇱 Polski</b></summary>
+<br/>
+💙 Jestem <b>Zwolennikiem OsanaIX</b><br/>
+🌸 Wspieram <b>@nik0hayashi</b>, twórcę <b>OsanaIX</b><br/>
+💻 Buduję <b>strony i aplikacje internetowe</b><br/>
+🇲🇦 Z <b>Maroka</b><br/>
+🚀 Zawsze się uczę, zawsze dostarczam
+</details>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     🛠️ TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🇸🇪 SWEDISH -->
+<details>
+<summary><b>🇸🇪 Svenska</b></summary>
+<br/>
+💙 Jag är en <b>OsanaIX Supporter</b><br/>
+🌸 Jag stödjer <b>@nik0hayashi</b>, skapare av <b>OsanaIX</b><br/>
+💻 Jag bygger <b>webbplatser och webbappar</b><br/>
+🇲🇦 Från <b>Marocko</b><br/>
+🚀 Alltid lärande, alltid levererande
+</details>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma&theme=dark&perline=9" />
-</div>
+<!-- 🇬🇷 GREEK -->
+<details>
+<summary><b>🇬🇷 Ελληνικά</b></summary>
+<br/>
+💙 Είμαι <b>Υποστηρικτής του OsanaIX</b><br/>
+🌸 Υποστηρίζω τον <b>@nik0hayashi</b>, δημιουργό του <b>OsanaIX</b><br/>
+💻 Φτιάχνω <b>ιστότοπους και web εφαρμογές</b><br/>
+🇲🇦 Από το <b>Μαρόκο</b><br/>
+🚀 Πάντα μαθαίνω, πάντα παραδίδω
+</details>
 
 <br />
 
+<!-- 🌈 DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                💙 OSANAIX — FEATURED PROJECT                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">💙 Featured Project — OsanaIX</h2>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://github.com/nik0hayashi/OsanaIX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nik0hayashi&repo=OsanaIX&theme=tokyonight&hide_border=true&bg_color=001F3F&title_color=00F7FF&icon_color=00FF87&text_color=FFFFFF&border_radius=12" />
+  </a>
 </div>
 
-<!-- 🌈 RAINBOW DIVIDER -->
+<div align="center">
+  <a href="https://github.com/nik0hayashi/OsanaIX">
+    <img src="https://img.shields.io/badge/⭐_Star_OsanaIX-Now-00F7FF?style=for-the-badge&labelColor=001F3F&logo=github" />
+  </a>
+  <a href="https://github.com/nik0hayashi">
+    <img src="https://img.shields.io/badge/@nik0hayashi-Follow-00FF87?style=for-the-badge&labelColor=001F3F&logo=github" />
+  </a>
+</div>
+
+<p align="center">
+  <b>🌸 OsanaIX — Osana File Index Search! ⋆. 𐙚 ˚</b><br/>
+  <i>Created by <a href="https://github.com/nik0hayashi">@nik0hayashi</a> — a talented developer I fully support 💙</i>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=🌟+OsanaIX+is+awesome+%40nik0hayashi!;💙+Proud+to+support+this+project;🌸+Osana+File+Index+Search" />
+</div>
+
+<!-- 🌈 DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -298,17 +358,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryadallaoui1-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6EC7&text_color=FFFFFF&border_radius=12&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryadallaoui1-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=12&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryadallaoui1-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=001F3F&title_color=00F7FF&icon_color=00FF87&text_color=FFFFFF&border_radius=12&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryadallaoui1-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=001F3F&title_color=00F7FF&text_color=FFFFFF&border_radius=12&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryadallaoui1-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6EC7&currStreakLabel=00FF87&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryadallaoui1-lang&theme=tokyonight&hide_border=true&background=001F3F&ring=00F7FF&fire=00FF87&currStreakLabel=00F7FF&border_radius=12" />
 </div>
 
 <br />
 
-<!-- 🏆 TROPHIES -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
@@ -317,28 +376,56 @@
 
 <br />
 
-<!-- 📈 ACTIVITY GRAPH -->
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryadallaoui1-lang&bg_color=0D1117&color=00F7FF&line=FF6EC7&point=00FF87&area=true&hide_border=true&radius=12" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryadallaoui1-lang&bg_color=001F3F&color=00F7FF&line=00FF87&point=FFFFFF&area=true&hide_border=true&radius=12" width="100%" />
 </div>
 
-<!-- 🌈 RAINBOW DIVIDER -->
+<!-- 🌈 DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    📫 CONNECT WITH ME                       -->
+<!--                    🐍 SNAKE ANIMATION                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryadallaoui1-lang/ryadallaoui1-lang/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<!-- 🌈 DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    💬 DEV QUOTE                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">💬 Dev Quote of the Day</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<!-- 🌈 DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    📫 CONNECT                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📫 Connect</h2>
 
 <div align="center">
   <a href="https://ryad-page.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&labelColor=001F3F" />
   </a>
   <a href="https://github.com/ryadallaoui1-lang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Ryad-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/nik0hayashi">
+    <img src="https://img.shields.io/badge/GitHub-nik0hayashi-00FF87?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:RyadTheDev@proton.me">
     <img src="https://img.shields.io/badge/Email-RyadTheDev@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -347,53 +434,39 @@
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🐍 SNAKE ANIMATION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Watch the snake eat my contributions</h2>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ryadallaoui1-lang/ryadallaoui1-lang/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <a href="https://github.com/nik0hayashi/OsanaIX">
+    <img src="https://img.shields.io/badge/🌟_Star_OsanaIX_Now-00F7FF?style=for-the-badge&labelColor=001F3F" />
+  </a>
+  <a href="https://github.com/nik0hayashi">
+    <img src="https://img.shields.io/badge/👤_Follow_@nik0hayashi-00FF87?style=for-the-badge&labelColor=001F3F" />
+  </a>
 </div>
 
-<!-- 🌈 RAINBOW DIVIDER -->
+<!-- 🌈 DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    💬 QUOTE OF THE DAY                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💬 Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<!-- 🌈 RAINBOW DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      💌 FOOTER                              -->
+<!--                    💌 FOOTER                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=850&lines=⭐️+Merci+de+ta+visite+!;شكراً+لزيارتك+!;Obrigado+pela+visita+!;Bedankt+voor+je+bezoek+!;Danke+f%C3%BCr+deinen+Besuch+!;Grazie+per+la+visita+!;Thanks+for+visiting+!;ありがとう+ございます+!;감사합니다+!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=600&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=💙+OsanaIX+Supporter;شكراً+%40nik0hayashi+💙;Merci+%40nik0hayashi+💙;Obrigado+%40nik0hayashi+💙;Bedankt+%40nik0hayashi+💙;Danke+%40nik0hayashi+💙" />
 </div>
 
 <br />
 
 <div align="center">
-  <b>⭐️ From <a href="https://github.com/ryadallaoui1-lang">Ryad</a> — Made with ❤️ in Morocco 🇲🇦</b>
+  <b>⭐️ Made with ❤️ by <a href="https://github.com/ryadallaoui1-lang">Ryad</a> 🇲🇦 — OsanaIX Supporter 💙</b><br/>
+  <i>Supporting <a href="https://github.com/nik0hayashi">@nik0hayashi</a> 🌸 and <a href="https://github.com/nik0hayashi/OsanaIX">OsanaIX</a></i>
 </div>
 
 <br />
 
-<!-- 🌊 BOTTOM WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:FF6EC7,100:00F7FF&height=150&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0074D9,100:001F3F&height=150&section=footer" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    END OF ULTRA README                      -->
+<!--      END — OsanaIX Supporter 💙 — Morocco 🇲🇦              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
